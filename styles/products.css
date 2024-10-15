@@ -66,6 +66,12 @@
   height: 100vh;
   }
  .productsImg{
-  justify-content: space-evenly;
+  display:flex;justify-content: space-evenly;
+  
+
 
  }
+ .one{
+  display:flex;justify-content: space-evenly;
+ }
+ 
